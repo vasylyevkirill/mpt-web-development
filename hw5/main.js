@@ -1,3 +1,4 @@
+// Adding some comments for commit
 'use strict';
 
 const API_KEY = '50d2199a-42dc-447d-81ed-d68a443b697e';
